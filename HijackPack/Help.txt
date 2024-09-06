@@ -1,0 +1,32 @@
+Thanks For using HijackPack By i'm_caca (timurko767)
+credit to Ebolo Man for psexec 
+Ebolo man's youtube channel: https://www.youtube.com/@ebolaman_
+Ebolo Man's github: https://github.com/EbolaMan-YT
+My github: https://github.com/timurko7674
+
+-----------------------------------------------------------------------------------------------------
+File directory
+HijackPack
+    BruteForce
+    HackTrace
+    LinuxTerminal
+    Help
+    psexec
+     psexec
+     files
+      info
+----------------------------------------------------------------------------------------------------
+Explenation
+BruteForce - Password Picker.
+HackTrace - ip connect ip quordinates and ip location.
+LinuxTerminal - Basic Linux terminal.
+psexec - pc connection.
+----------------------------------------------------------------------------------------------------
+WARNING: If ip connection desn't work follow these steps.
+1. Press win+r
+2. Type mstsc
+3. Press Enter
+4. In the field write ip/computer name. (computer name if the pc is connected to same network)
+5. Configure the settings. (Optional)
+6. Press enter again.
+-----------------------------------------------------------------------------------------------------
